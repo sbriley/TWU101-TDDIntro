@@ -616,7 +616,7 @@ For each of the test cases:
 | I have $50 in my account  | I withdraw $100 | I see that my account contains $50  |
 
 <a id="mocks-and-stubs"></a>
-## Mocks & Stubs
+## Mocks and Stubs
 
 ### Test Doubles
 Up to this point, we’ve test driven situations where the class we are testing does not depend on any other class and we
